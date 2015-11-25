@@ -26,6 +26,7 @@ insert into pistas (nombre)
 values ('Fútbol'),
        ('Baloncesto'),
        ('waterpolo'),
+       ('ping pong'),
        ('Tenis');
 
 drop table if exists reservas cascade;
