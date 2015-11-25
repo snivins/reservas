@@ -25,7 +25,6 @@ create table pistas (
 insert into pistas (nombre)
 values ('Fútbol'),
        ('Baloncesto'),
-       ('waterpolo'),
        ('Tenis');
 
 drop table if exists reservas cascade;
